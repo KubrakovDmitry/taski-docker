@@ -1,3 +1,5 @@
+"""Модуль настройки."""
+
 from pathlib import Path
 import os
 
